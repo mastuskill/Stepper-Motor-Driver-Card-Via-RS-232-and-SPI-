@@ -1,0 +1,9 @@
+--cpu ARM7TDMI
+".\objects\main.o"
+".\objects\startup.o"
+".\objects\rtx_config.o"
+C:\Keil_v5\ARM\RV31\LIB\RTX_ARM_LA.LIB
+--strict --scatter ".\Objects\Jonathan_Micallef_BEEC3.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Jonathan_Micallef_BEEC3.map" -o .\Objects\Jonathan_Micallef_BEEC3.axf

@@ -1,0 +1,10 @@
+Dependencies for Project 'Jonathan_Micallef_BEEC3', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x592C749D)(-c --cpu ARM7TDMI -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="522"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x559D34D8)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC21xx.h)(0x559D2F68)
+I (Lcd_Utility.h)(0x58F47EA7)
+F (.\Startup.s)(0x59117B59)(--cpu ARM7TDMI --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\Philips--pd "__UVISION_VERSION SETA 522"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\RTX_Config.c)(0x591413ED)(-c --cpu ARM7TDMI -D__RTX -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="522"-o .\objects\rtx_config.o --omf_browse .\objects\rtx_config.crf --depend .\objects\rtx_config.d)
+I (C:\Keil_v5\ARM\RV31\INC\RTL.h)(0x559D34D8)
+I (C:\Keil_v5\ARM\Inc\Philips\LPC21xx.H)(0x559D2F68)
+I (C:\Keil_v5\ARM\RV31\INC\RTX_lib.c)(0x559D34D8)
